@@ -1,14 +1,4 @@
 # 🪐 Star Wars Application
-
-## 🐧 Links
-- `Project` https://dev-pandaren.github.io/react-star-wars
-- `Repository` https://github.com/dev-pandaren/react-star-wars
-- `StoryBook` https://dev-pandaren.github.io/react-star-wars/storybook
-- `YouTube Playlist` https://www.youtube.com/playlist?list=PL7cTIfGFrdKkQAWKDu2NdFt5Cx38B-A3i
-- `Dev Pandaren` https://dev-pandaren.github.io/
-
----
-
 ## 🐶 Available Scripts and Commands
 
 ```bash
@@ -36,21 +26,10 @@ npm run eject            # remove the single build dependency
 npm run deploy-storybook # storybook deploy
 ```
 
----
 
 ## 🦄 API
 - https://swapi.dev (основное API)
-- https://swapi.py4e.com (запасное API - если основное не работает)
-- https://starwars-visualguide.com (изображения для API)
 
----
-
-## 🐗 Lighthouse Metrics Performance
-<img src="https://github.com/dev-pandaren/react-star-wars/blob/__temp__/_temp/readme/lighthouse.png?raw=true" width="500px" />
-
----
-
-## 🐼 Рассмотренные темы
 
 ### React.js
 - Разворачивание приложения с `create-react-app`
@@ -147,15 +126,3 @@ npm run deploy-storybook # storybook deploy
 - Публикация NPM-пакета для UiKit
 - .bat-файлы для запуска скриптов
 
-
----
-
-### NPM
-
-```bash
-npm i --save classnames lodash prop-types react react-dom react-redux react-router react-router-dom react-scripts redux redux-devtools-extension redux-thunk
-```
-
-```bash
-npm i --save-dev @storybook/addon-actions @storybook/addon-essentials @storybook/addon-links @storybook/node-logger @storybook/preset-create-react-app @storybook/react @storybook/storybook-deployer gh-pages react-app-rewire-alias react-app-rewired
-```

@@ -5,10 +5,7 @@ import NotFoundPage from '@containers/NotFoundPage';
 
 
 const routesConfig = [
-    {
-        path: '/',
-        element: <HomePage />
-    },
+
     {
         path: '/people',
         element: <PeoplePage />
